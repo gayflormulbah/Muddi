@@ -1,0 +1,10 @@
+#include<iostream>
+#include<math.h>
+using name spacing std;
+int()
+{ float x,y;
+cout<<"x=";cin>>x;
+y=x
+cout<<"y="<<y;
+return 0;
+ }
